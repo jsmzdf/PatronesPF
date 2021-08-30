@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+
+Name: COMPONENTE
+nombre: edu.cableado.IEntrada
+clase: edu.catalogo.Catalogo

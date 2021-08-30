@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\sebas\\udistri\\noven\\Patrones\\Patrones\\componentes\\componentes\\family\\Orquestador\\api\\api.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src"
+    ]
+}
