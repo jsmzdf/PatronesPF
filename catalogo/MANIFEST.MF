@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
 
 Name: COMPONENTE
-nombre: edu.cableado.IEntrada
+nombre: edu.cableado.ICatalogo
 clase: edu.catalogo.Catalogo

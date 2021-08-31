@@ -2,4 +2,4 @@ Manifest-Version: 1.0
 
 Name: COMPONENTE
 nombre: edu.cableado.IAtencionalcliente
-clase: edu.atencionalcliente.atencionCliente
+clase: edu.atencionalcliente.AtencionCliente

@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 import edu.cableado.IInventario;
 
-public class inventario implements IInventario{
+public class Inventario implements IInventario{
 
 	@Override
 	public void gestionarStock() {

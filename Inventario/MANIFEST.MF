@@ -2,4 +2,4 @@ Manifest-Version: 1.0
 
 Name: COMPONENTE
 nombre: edu.cableado.IInventario
-clase: edu.inventario.inventario
+clase: edu.inventario.Inventario

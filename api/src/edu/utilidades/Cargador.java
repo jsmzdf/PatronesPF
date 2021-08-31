@@ -83,6 +83,7 @@ public class Cargador {
 
     private URL[] cargarComponentes(HashMap<String, InfoComponente> registroDeComponentes) {
         File f = new File(directorioDeComponentes);
+        System.out.println(directorioDeComponentes); 
         if (!f.canRead() || !f.isDirectory()) {
             System.out.println("Error: No existe el directorio");
             return null;

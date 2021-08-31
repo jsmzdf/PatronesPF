@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 import edu.cableado.IDespacho;
 
-public class despacho implements IDespacho {
+public class Despacho implements IDespacho {
 
 	@Override
 	public void gestionServicioPeluqueria() {

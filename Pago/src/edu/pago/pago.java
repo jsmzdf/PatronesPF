@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 import edu.cableado.IPago;
 
-public class pago implements IPago{
+public class Pago implements IPago{
 
 	@Override
 	public void efectuarPago() {

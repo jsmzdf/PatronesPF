@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 import edu.cableado.IAtencionalcliente;
 
-public class atencionalcliente implements IAtencionalcliente {
+public class AtencionCliente implements IAtencionalcliente {
 
 	@Override
 	public void brindarSoporteAsesoria() {

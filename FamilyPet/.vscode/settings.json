@@ -1,4 +1,11 @@
 {
-    "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin"
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "api/api.jar",
+        "C:/Users/Usuario/Desktop/Patrones/PatronesPF/familyPet/api/api.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src"
+    ]
+
 }

@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 import edu.cableado.IDomicilio;
 
-public class domicilio implements IDomicilio{
+public class Domicilio implements IDomicilio{
 
 	@Override
 	public void despacharPedidos() {
@@ -20,5 +20,3 @@ public class domicilio implements IDomicilio{
     }
 
 }
-
-
